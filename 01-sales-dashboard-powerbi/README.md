@@ -103,3 +103,107 @@ Dashboard screenshots are available in the `/screenshots` folder.
 Data Analyst | Power BI | Tableau | Excel  
 LinkedIn: www.linkedin.com/in/
 marikena-praiz-60b4b924a
+
+
+# Dashboard de Performance de Ventas (Retail / Ecommerce)
+
+## 📌 Descripción del Proyecto
+Este proyecto analiza el rendimiento de ventas de un negocio retail/e-commerce utilizando Power BI.  
+El objetivo principal es identificar productos, categorías y regiones con mejor desempeño, además de detectar tendencias y estacionalidad en las ventas.
+
+El dashboard es interactivo y permite filtrar por fecha, región, categoría y segmento de clientes, facilitando la toma de decisiones basada en datos.
+
+---
+
+## 🎯 Objetivo del Negocio
+- Medir el rendimiento general de ventas mediante KPIs clave
+- Identificar productos y categorías con mayor aporte a las ventas
+- Analizar la distribución geográfica de ventas
+- Detectar tendencias y estacionalidad mensual
+- Generar insights para apoyar decisiones comerciales
+
+---
+
+## 🛠 Herramientas Utilizadas
+- **Power BI Desktop** (Modelado de datos, DAX, diseño de dashboard)
+- **Power Query** (Limpieza y transformación de datos)
+- **Excel / CSV** (Fuente de datos)
+
+---
+
+## 📂 Dataset
+El dataset contiene transacciones de ventas con las siguientes variables principales:
+- Order ID, Order Date, Ship Date
+- Segmento de cliente y región
+- Categoría, subcategoría, nombre del producto
+- Ventas (Sales)
+
+---
+
+## 🧹 Limpieza y Transformación de Datos
+En Power Query se realizaron las siguientes transformaciones:
+- Corrección de tipos de datos (Fecha, Texto, Numérico)
+- Eliminación de valores nulos y registros inválidos
+- Normalización de nombres de columnas
+- Creación de una **tabla calendario (Calendar Table)** para análisis temporal
+
+---
+
+## 📊 KPIs Principales
+El dashboard incluye los siguientes indicadores:
+- **Ventas Totales**
+- **Cantidad Total de Órdenes**
+- **Ticket Promedio**
+- **Variación Mensual de Ventas (MoM%)**
+- **Ventas por Categoría y Subcategoría**
+- **Top Productos por Ventas**
+- **Ventas por Región / Estado / Ciudad**
+
+---
+
+## 📈 Funcionalidades del Dashboard
+El dashboard contiene:
+- Tarjetas KPI (Ventas Totales, Órdenes Totales, Ticket Promedio, MoM%)
+- Gráfico de tendencia mensual de ventas
+- Ranking de Top 10 productos por ventas
+- Distribución de ventas por categoría y subcategoría
+- Mapa de ventas por región / estado
+- Segmentadores interactivos (Fecha, Región, Categoría, Segmento)
+
+---
+
+## 🔍 Insights Principales (Ejemplos)
+Algunos hallazgos relevantes del análisis:
+- Un grupo reducido de productos genera un porcentaje importante de las ventas totales.
+- Algunas regiones presentan mayor volumen de ventas comparado con otras.
+- Se observa estacionalidad con picos de ventas en ciertos meses.
+- Algunas subcategorías concentran una mayor proporción de ingresos.
+
+---
+
+## 💡 Recomendaciones de Negocio
+En base a los resultados:
+- Enfocar campañas y planificación de inventario en productos y categorías top.
+- Analizar regiones con menor rendimiento para definir estrategias de expansión o marketing.
+- Utilizar los patrones de estacionalidad para planificar promociones en meses clave.
+- Optimizar el catálogo priorizando subcategorías con mayor demanda.
+
+---
+
+## 📷 Vista Previa del Dashboard
+Las capturas del dashboard se encuentran en la carpeta `/screenshots`.
+
+---
+
+## 📁 Estructura del Repositorio
+- `/dataset` → dataset original
+- `/screenshots` → capturas del dashboard
+- Archivo `.pbix` → reporte de Power BI
+
+---
+
+## 🔗 Autor
+**Marikena Praiz**  
+Data Analyst | Power BI | Tableau | Excel  
+LinkedIn: www.linkedin.com/in/
+marikena-praiz-60b4b924a
