@@ -112,8 +112,7 @@ Podés descargarlo acá: https://www.kaggle.com/datasets/manishabhatt22/marketin
 ## 🔗 Autor
 **Marikena Praiz**  
 Data Analyst | Power BI | Tableau | Excel  
-LinkedIn: www.linkedin.com/in/
-marikena-praiz-60b4b924a
+LinkedIn: www.linkedin.com/in/marikena-praiz-60b4b924a
 
 
 
@@ -242,5 +241,4 @@ You can download it here: https://www.kaggle.com/datasets/manishabhatt22/marketi
 ## 🔗 Author
 **Marikena Praiz**  
 Data Analyst | Power BI | Tableau | Excel  
-LinkedIn: www.linkedin.com/in/
-marikena-praiz-60b4b924a
+LinkedIn: www.linkedin.com/in/marikena-praiz-60b4b924a
