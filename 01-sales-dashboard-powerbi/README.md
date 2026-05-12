@@ -101,8 +101,7 @@ Dashboard screenshots are available in the `/screenshots` folder.
 ## 🔗 Author
 **Marikena Praiz**  
 Data Analyst | Power BI | Tableau | Excel  
-LinkedIn: www.linkedin.com/in/
-marikena-praiz-60b4b924a
+LinkedIn: www.linkedin.com/in/marikena-praiz-60b4b924a
 
 
 # Dashboard de Performance de Ventas (Retail / Ecommerce)
@@ -205,5 +204,4 @@ Las capturas del dashboard se encuentran en la carpeta `/screenshots`.
 ## 🔗 Autor
 **Marikena Praiz**  
 Data Analyst | Power BI | Tableau | Excel  
-LinkedIn: www.linkedin.com/in/
-marikena-praiz-60b4b924a
+LinkedIn: www.linkedin.com/in/marikena-praiz-60b4b924a
