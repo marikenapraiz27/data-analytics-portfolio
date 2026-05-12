@@ -11,5 +11,4 @@ Hi! I'm a Data Analyst focused on building interactive dashboards and business i
 ## Tools & Skills
 Power BI | DAX | Power Query | Data Cleaning | Dashboard Design | Excel
 
-📩 LinkedIn: www.linkedin.com/in/
-marikena-praiz-60b4b924a
+📩 LinkedIn: www.linkedin.com/in/marikena-praiz-60b4b924a
