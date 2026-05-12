@@ -105,8 +105,7 @@ Dashboard screenshots are available in the `/screenshots` folder.
 ## 🔗 Author
 **Marikena Praiz**  
 Data Analyst | Power BI | Tableau | Excel  
-LinkedIn: www.linkedin.com/in/
-marikena-praiz-60b4b924a
+LinkedIn: www.linkedin.com/in/marikena-praiz-60b4b924a
 
 
 
@@ -223,5 +222,4 @@ Las capturas se encuentran disponibles en la carpeta `/screenshots`.
 ## 🔗 Autor
 **Marikena Praiz**  
 Data Analyst | Power BI | Tableau | Excel  
-LinkedIn: www.linkedin.com/in/
-marikena-praiz-60b4b924a
+LinkedIn: www.linkedin.com/in/marikena-praiz-60b4b924a
