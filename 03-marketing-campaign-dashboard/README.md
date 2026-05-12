@@ -97,6 +97,11 @@ Las capturas se encuentran en la carpeta `/screenshots`.
 
 ---
 
+## Dataset
+El dataset fue obtenido de Kaggle.
+
+Debido a las limitaciones de tamaño de archivos en GitHub, el dataset no está incluido en este repositorio.
+Podés descargarlo acá: https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset
 ## 📁 Estructura del Repositorio
 - `/dataset` → dataset original
 - `/screenshots` → imágenes del dashboard
@@ -109,12 +114,6 @@ Las capturas se encuentran en la carpeta `/screenshots`.
 Data Analyst | Power BI | Tableau | Excel  
 LinkedIn: www.linkedin.com/in/
 marikena-praiz-60b4b924a
-
-
-
-
-
-
 
 
 
@@ -222,6 +221,14 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 Screenshots are available in the `/screenshots` folder.
+
+---
+
+## Dataset
+The dataset was obtained from Kaggle.
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+You can download it here: https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset
 
 ---
 
